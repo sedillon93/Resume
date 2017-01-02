@@ -7,4 +7,4 @@
 #### Github: sedillon93
 
 ### _Projects_
-#### **Portfolio Bootstrap Website**
+**Portfolio Bootstrap Website**
