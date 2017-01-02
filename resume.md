@@ -8,5 +8,8 @@
 
 ### _Projects_
 **Portfolio Bootstrap Website**
-  - Project Date: June-July 2016
-  - Description: Mock resume webpage utilizing HTML, CSS, and bootstrap to create 
+  - Project Dates: June -July 2016
+  - Description: Mock resume webpage utilizing HTML, CSS, and bootstrap to create
+**Disney Election**
+  - Project Dates: December 2016
+  - Description: Takes user input to cast 10 votes for Minnie Mouse, Donald Duck, or Goofy and displays election results
