@@ -13,7 +13,7 @@ Github: sedillon93
 ***
 
 ### _Education_
-**Colgate University**  <div style="text-align: right"> 2015 </div>
+**Colgate University**  <div class="align-right"> 2015 </div>
   - Bachelor of Arts
     - Environmental Geology
 
