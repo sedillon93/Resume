@@ -4,7 +4,10 @@
 ***
 <p align="center">
 528 Pontius Ave N Apt 407 Seattle, WA 98109
-Phone: 215-806-8039   
+Phone: 215-806-8039
+</p>
+
+<p align="center">
 Email: sedillon93@gmail.com
 Github: sedillon93
 </p>
