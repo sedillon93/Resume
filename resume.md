@@ -18,6 +18,5 @@ Github: sedillon93
     - Environmental Geology
 
 ### _Projects_
-**Portfolio Bootstrap Website**
-  - Project Dates: June - July 2016
+**Portfolio Bootstrap Website** _Summer 2016_
   - Description: Mock resume webpage utilizing HTML, CSS, and bootstrap to create
