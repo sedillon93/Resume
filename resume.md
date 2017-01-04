@@ -9,9 +9,9 @@ Github: sedillon93
 ***
 
 ### _Education_
-**Colgate University**
-  - Dates: August 2011 - May 2015
-  - Degree: Bachelor of Arts in Environmental Geology
+**Colgate University**  2015
+  - Bachelor of Arts
+    - Environmental Geology
 
 ### _Projects_
 **Portfolio Bootstrap Website**
