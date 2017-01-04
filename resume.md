@@ -1,4 +1,6 @@
+<p style="text-align: center;">
 ## Shannon Dillon Guha
+</p>
 ***
 #### 528 Pontius Ave N Apt 407 Seattle, WA 98109
 ### _Contact Information_
