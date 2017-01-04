@@ -19,4 +19,4 @@ Github: sedillon93
 
 ### _Projects_
 **Portfolio Bootstrap Website** _Summer 2016_
-  - Description: Mock resume webpage utilizing HTML, CSS, and bootstrap to create
+  - Mock resume webpage utilizing HTML, CSS, and bootstrap to create
