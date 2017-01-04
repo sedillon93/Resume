@@ -5,7 +5,7 @@
 #### Phone: 215-806-8039
 #### Email: sedillon93@gmail.com
 #### Github: sedillon93
-
+***
 ### _Projects_
 HTML & CSS
 **Portfolio Bootstrap Website**
