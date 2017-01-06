@@ -5,9 +5,11 @@
 </p>
 <p align="center">
 Phone: 215-806-8039
-Email: sedillon93@gmail.com
 Github: sedillon93
 </p>
+<<p>
+Email: sedillon93@gmail.com
+</p>>
 ***
 
 ###_Work Experience_
