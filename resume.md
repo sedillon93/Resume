@@ -11,7 +11,8 @@ Email: sedillon93@gmail.com</p>
 
 ###_Work Experience_
 **Elementary Center Instructional Assistant** &nbsp; &nbsp; &nbsp; _August 2016 - June 2017_ <br />
-_St. Thomas School_ &nbsp; &nbsp; &nbsp; _Medina, WA_
+_St. Thomas School_ <br />
+_Medina, WA_
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
