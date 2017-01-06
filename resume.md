@@ -14,6 +14,12 @@ Github: sedillon93
 
 ###_Experience_
 **Elementary Center Instructional Assistant** _St. Thomas School_ _August 2016 - June 2017_
+  - Assist teachers in implementing curriculum
+  - Work one-on-one with students who need additional support
+  - Provide additional social, emotional, and academic support during the Extended Day program after school
+  - Review and grade student work
+  - Ensure that all materials are ready as needed for classroom work
+
 
 ### _Education_
 **Colgate University** _2015_
