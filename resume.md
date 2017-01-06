@@ -12,6 +12,9 @@ Github: sedillon93
 </p>
 ***
 
+###_Experience_
+**Elementary Center Instructional Assistant** _St. Thomas School_ _August 2016 - June 2017_
+
 ### _Education_
 **Colgate University** _2015_
   - Bachelor of Arts
