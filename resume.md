@@ -20,6 +20,15 @@ Github: sedillon93
   - Review and grade student work
   - Ensure that all materials are ready as needed for classroom work
 
+**Resident Teacher** _University Child Development School_ _August 2015 - June 2016_
+  - Collaborate with senior teachers to design and implement challenging curricula,​a​nd reflect on the process and results
+  - Create individualized goals for each student and provide personalized support
+  - Explore multiple teaching skills and techniques, including Visual Thinking Strategies, behavior management using non­directives, and math using narrative and manipulatives
+  - Co­lead Extended Day Program one morning each week
+  - Provide homework support at Home Learning and Thinking Club a few times per month
+  - Work with other faculty on Technology and Communication Committee
+  - Write detailed reports for students evaluating writing, math, reading, and reflective thinking skills
+
 
 ### _Education_
 **Colgate University** _2015_
