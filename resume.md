@@ -10,7 +10,8 @@ Email: sedillon93@gmail.com</p>
 ***
 
 ###_Work Experience_
-**Elementary Center Instructional Assistant** ``                                            `` _August 2016 - June 2017_ <br />
+**Elementary Center Instructional Assistant** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+_August 2016 - June 2017_ <br />
     _Medina, WA_
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
