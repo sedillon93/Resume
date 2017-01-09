@@ -12,7 +12,7 @@ Email: sedillon93@gmail.com</p>
 ###_Work Experience_
 **Elementary Center Instructional Assistant** _August 2016 - June 2017_
 <br />
-_St Thomas School_, &nbsp;&nbsp;_Medina, WA_
+_St Thomas School_, &nbsp;_Medina, WA_
   - Assist teachers in implementing curriculum
   - Work one-on-one with students who need additional support
   - Provide additional social, emotional, and academic support during the Extended Day program after school
@@ -21,7 +21,7 @@ _St Thomas School_, &nbsp;&nbsp;_Medina, WA_
 
 **Resident Teacher** <span style="text-align:right"> _August 2015 - June 2016_ </span>
 <br />
- _University Child Development School_, &nbsp;&nbsp;_Seattle, WA_
+ _University Child Development School_, &nbsp;_Seattle, WA_
   - Collaborate with senior teachers to design and implement challenging curricula,​ a​nd reflect on the process and results
   - Create individualized goals for each student and provide personalized support
   - Explore multiple teaching skills and techniques, including Visual Thinking Strategies, behavior management using non-­directives, and math using narrative and manipulatives
@@ -32,7 +32,7 @@ _St Thomas School_, &nbsp;&nbsp;_Medina, WA_
 
 **Science Outreach Educator** _May 2014 - May 2015_
 <br />
-_Colgate University_, &nbsp;&nbsp;_Hamilton, NY_
+_Colgate University_, &nbsp;_Hamilton, NY_
   - Design 20­-40 minute modules to teach children (1​ through 12​ grade) different subjects, including meteorology, physics, geology, astronomy, and biology
   - Teach local school groups of 20-­30 children (1​ through 12​ grade) about scientific principles
 through hands­ on activities
