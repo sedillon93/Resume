@@ -10,7 +10,7 @@ Email: sedillon93@gmail.com</p>
 ***
 
 ###_Work Experience_
-**Elementary Center Instructional Assistant** &nbsp; <div float:right; display:inline>_August 2016-June 2017_</div>
+**Elementary Center Instructional Assistant** &nbsp; <div style="text-align:right; display:inline;">_August 2016-June 2017_</div>
 <br />
 _St Thomas School_, _Medina, WA_
   - Assist teachers in implementing curriculum
