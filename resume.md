@@ -41,10 +41,10 @@ through hands­ on activities
 
 
 ### _Education_
-**Colgate University** &nbsp; _2015_
+**Colgate University** _2015_
   - Bachelor of Arts
     - Environmental Geology
 
 ### _Projects_
-**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
+**Portfolio Bootstrap Website** _Summer 2016_
   - Mock resume webpage utilizing HTML, CSS, and bootstrap to create
