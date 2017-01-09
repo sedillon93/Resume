@@ -17,12 +17,12 @@ Email: sedillon93@gmail.com</p>
   - Review and grade student work
   - Ensure that all materials are ready as needed for classroom work
 
-**Resident Teacher** <span style="text-align:right">_August 2015 - June 2016_</span>
+**Resident Teacher** <span style="text-align:right"> August 2015 - June 2016 </span>
 <br />
  _University Child Development School_ _Seattle, WA_
-  - Collaborate with senior teachers to design and implement challenging curricula,​a​nd reflect on the process and results
+  - Collaborate with senior teachers to design and implement challenging curricula,​ a​nd reflect on the process and results
   - Create individualized goals for each student and provide personalized support
-  - Explore multiple teaching skills and techniques, including Visual Thinking Strategies, behavior management using non­directives, and math using narrative and manipulatives
+  - Explore multiple teaching skills and techniques, including Visual Thinking Strategies, behavior management using non-­directives, and math using narrative and manipulatives
   - Co­lead Extended Day Program one morning each week
   - Provide homework support at Home Learning and Thinking Club a few times per month
   - Work with other faculty on Technology and Communication Committee
