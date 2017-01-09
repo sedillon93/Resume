@@ -19,7 +19,7 @@ _St Thomas School_, &nbsp;_Medina, WA_
   - Review and grade student work
   - Ensure that all materials are ready as needed for classroom work
 
-**Resident Teacher** <span style="text-align:right"> _August 2015 - June 2016_ </span>
+**Resident Teacher** <span style="margin-right:auto;"> _August 2015 - June 2016_ </span>
 <br />
  _University Child Development School_, &nbsp;_Seattle, WA_
   - Collaborate with senior teachers to design and implement challenging curricula,​ a​nd reflect on the process and results
