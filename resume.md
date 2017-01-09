@@ -18,7 +18,7 @@ Email: sedillon93@gmail.com</p>
   - Ensure that all materials are ready as needed for classroom work
 
 **Resident Teacher** <br />
- _University Child Development School_ &nbsp; &nbsp; &nbsp; _Seattle, WA_ &nbsp; &nbsp; &nbsp; _August 2015 - June 2016_
+ _University Child Development School_ &nbsp; &nbsp; _Seattle, WA_ &nbsp; &nbsp; _August 2015 - June 2016_
   - Collaborate with senior teachers to design and implement challenging curricula,​a​nd reflect on the process and results
   - Create individualized goals for each student and provide personalized support
   - Explore multiple teaching skills and techniques, including Visual Thinking Strategies, behavior management using non­directives, and math using narrative and manipulatives
