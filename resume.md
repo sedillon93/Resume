@@ -41,7 +41,7 @@ through hands­ on activities
 
 
 ### _Education_
-**Colgate University** _2015_
+**Colgate University** _May 2015_
   - Bachelor of Arts
     - Environmental Geology
 
