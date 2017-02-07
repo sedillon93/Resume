@@ -30,7 +30,7 @@ _St Thomas School_, _Medina, WA_
   - Work with other faculty on Technology and Communication Committee
   - Write detailed reports for students evaluating writing, math, reading, and reflective thinking skills
 
-**Science Outreach Educator** _May 2014-May 2015_
+**Science Outreach Educator** &nbsp; _May 2014-May 2015_
 <br />
 _Colgate University_, _Hamilton,NY_
   - Design 20­-40 minute modules to teach children (1​ through 12​ grade) different subjects, including meteorology, physics, geology, astronomy, and biology
@@ -41,10 +41,10 @@ through hands­ on activities
 
 
 ### _Education_
-**Colgate University** _May 2015_
+**Colgate University** &nbsp; _May 2015_
   - Bachelor of Arts
     - Environmental Geology
 
 ### _Projects_
-**Portfolio Bootstrap Website** _Summer 2016_
+**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock resume webpage utilizing HTML, CSS, and bootstrap to create
