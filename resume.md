@@ -47,4 +47,4 @@ through hands­ on activities
 
 ### _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
-  - Mock portfolio webpage utilizing HTML, CSS, and bootstrap
+  - Mock portfolio webpage created using HTML, CSS, and bootstrap
