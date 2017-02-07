@@ -10,7 +10,7 @@ Email: sedillon93@gmail.com</p>
 ***
 
 ###_Work Experience_
-**Elementary Center Instructional Assistant** &nbsp; _August 2016-June 2017_
+**Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
 <br />
 _St Thomas School_, _Medina, WA_
   - Assist teachers in implementing curriculum
@@ -42,6 +42,8 @@ through hands­ on activities
 
 ### _Education_
 **Colgate University** &nbsp; _May 2015_
+<br />
+_GPA: 3.66_
   - Bachelor of Arts
     - Environmental Geology
 
