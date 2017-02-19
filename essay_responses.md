@@ -1,0 +1,20 @@
+**1. Why are you interested in programming? What have you done to expose yourself to programming so far?**
+<br />
+My interest in programming began after a friend designed a webpage for me.
+I had seen them develop many amazing projects, like games and intricate programs,
+during their computer science classes but had always thought that it would be too
+difficult for me to learn without a formal curriculum. However, when I asked how they
+had built the page, they said that it only used HTML and CSS, some of the best introductory
+languages for people interested in coding. They introduced me to Udacity as a stand in for
+formal classes I started the HTML and CSS course to see if I could create something of my own.
+Before I knew it I was crafting a webpage to hold and sort the multitude of recipes I collect from the internet.
+Fine tuning display details, experimenting with different layouts and styles, and watching my project grow were addicting.
+Coding taps into a creative spirit that I do not often get to let loose in my current role as an
+elementary school instructional assistant. I also love the fact that sometimes it is necessary to puzzle
+through problems and keep trying new methods until you hit the eureka moment.
+This was one of the aspects which drew me to my science degree, and I was thrilled to find that programming was an
+accessible way to rediscover that problem-solving passion. The opportunity to always keep learning engages me in
+a way few other pursuits can. I wanted to continue building my page and try new projects so I moved onto
+Udacity’s JavaScript lesson. This allowed me to make my page more dynamic and continue to improve user experience.
+Recently I have been following Ada’s Jumpstart program to learn the basics of Ruby and am excited
+to see what new possibilities open up as I continue to gain programming skills.
