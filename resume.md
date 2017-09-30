@@ -7,7 +7,7 @@
 Phone: 215-806-8039
 Github: sedillon93
 Email: sedillon93@gmail.com</p>
-***
+
 
 ### _Work Experience_
 **Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
