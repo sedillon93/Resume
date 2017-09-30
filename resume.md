@@ -1,4 +1,4 @@
-#<p align="center">Shannon Dillon</p>
+# <p align="center">Shannon Dillon</p>
 ***
 <p align="center">
 528 Pontius Ave N Apt 407 Seattle, WA 98109
@@ -9,7 +9,7 @@ Github: sedillon93
 Email: sedillon93@gmail.com</p>
 ***
 
-###_Work Experience_
+### _Work Experience_
 **Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
 <br />
 _St Thomas School_, _Medina, WA_
