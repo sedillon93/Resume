@@ -27,6 +27,15 @@ Email: sedillon93@gmail.com</p>
   - Environmental Geology
 
 ### _Projects_
+**Virtual Candy Machine**
+https://github.com/sedillon93/candy_machine/blob/master/candy-machine.rb &nbsp; June 2017
+- Virtual candy machine offering a handful of options to select from
+- Determines if user can afford their selection based on their input; calculates the correct change
+
+**Walkathon Tracker** <br />
+https://github.com/sedillon93/walkathon/blob/master/walkathon_hash.rb &nbsp; June 2017
+- Track miles walked, how much money was raised, and if the earning goal was met in a walkathon based on data provided by the user
+
 **Disney Character Election** <br />
 https://github.com/sedillon93/Election/blob/master/election.rb
  &nbsp; _June 2017_
@@ -37,6 +46,7 @@ https://github.com/sedillon93/Election/blob/master/election.rb
 
 **Recipe Sorter Webpage** &nbsp; _Summer 2016_
   - Webpage with recipes sorted by category, with images and links to the original recipe website.
+
 
 ### _Interests & Affiliations_
 - She’s Coding <br />
