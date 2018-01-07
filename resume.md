@@ -29,14 +29,14 @@ Email: sedillon93@gmail.com</p>
 ### _Projects_
 **Code 301 Portfolio** <br />
 https://github.com/sedillon93/portfolio	&nbsp; _Sept. 2017 -  Oct. 2017_
-- Portfolio for projects I have worked on as part of the Code Fellows curriculum
+- Portfolio for projects I have worked on as part of the Code Fellows 301 curriculum
 
 **Scramble** <br />
 https://github.com/sedillon93/Scramble &nbsp; _Aug. 2017_
 - Scrabble-inspired game to create a high scoring five-letter word within the time limit
 
 **Bus-Mall Customer Research** <br />
-https://github.com/sedillon93/bus-mall &nbsp _Aug. 2017_
+https://github.com/sedillon93/bus-mall &nbsp; _Aug. 2017_
 - Collect and graph customer data on which product they are most likely to purchase given a choice of three randomly selected products
 
 **Bus-Mall Customer Order Form** <br />
@@ -80,7 +80,7 @@ https://github.com/sedillon93/Election/blob/master/election.rb
 - Seattle Girl Geek Dinners
 
 ### _Other Experience_
-**Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
+**Elementary Center Instructional Assistant** &nbsp; _August 2016-June 2017_
 <br />
 _St Thomas School_, _Medina, WA_
   - Assist teachers in implementing curriculum
