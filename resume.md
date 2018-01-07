@@ -27,6 +27,16 @@ Email: sedillon93@gmail.com</p>
   - Environmental Geology
 
 ### _Projects_
+**Disney Character Election** <br />
+https://github.com/sedillon93/Election/blob/master/election.rb
+ &nbsp; _June 2017_
+- Record election results for competition between Minnie, Goofy, and Donald
+
+**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
+  - Mock portfolio webpage created using HTML, CSS, and bootstrap
+
+**Recipe Sorter Webpage** &nbsp; _Summer 2016_
+  - Webpage with recipes sorted by category, with images and links to the original recipe website.
 
 ### _Interests & Affiliations_
 - She’s Coding <br />
@@ -62,12 +72,3 @@ _Colgate University_, _Hamilton, NY_
 through hands­ on activities
   - Lead weekly tours through the Colgate geology museum for school groups and community members to become engaged
   - Collaborate with other science outreach educators and supervisor to design schedule of activities suitable for the age and interests of different school groups
-
-
-
-### _Projects_
-**Portfolio Bootstrap Website** &nbsp; _Summer 2016_
-  - Mock portfolio webpage created using HTML, CSS, and bootstrap
-
-**Recipe Sorter Webpage** &nbsp; _Summer 2016_
-  - Webpage with recipes sorted by category, with images and links to the original recipe website.
