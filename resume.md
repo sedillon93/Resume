@@ -9,8 +9,6 @@ Github: sedillon93
 Email: sedillon93@gmail.com</p>
 
 ### _Skills_
-**Colgate University** &nbsp; _May 2015_
-<br />
 **Languages**: JavaScript (proficient), HTML5 (proficient), CSS3 (proficient), Ruby (beginner)
 
 **Frameworks & Tools**:  jQuery (proficient), SQL (proficient), Handlebars.js (proficient), NPM (proficient), Heroku (proficient), Node.js (proficient), Express.js (proficient), Page.js (beginner), Bootstrap (beginner)
@@ -18,8 +16,8 @@ Email: sedillon93@gmail.com</p>
 ### _Education_
 **Code Fellows Coding Academy** &nbsp;			            Aug. 2017 - present
 <br />
-• Code 201: Foundations of Software Development
-• Code 301: Intermediate Software Development
+• Code 201: Foundations of Software Development <br />
+• Code 301: Intermediate Software Development <br />
 • Code 401: Advanced Software Development in Full-Stack JavaScript
 
 
