@@ -27,13 +27,39 @@ Email: sedillon93@gmail.com</p>
   - Environmental Geology
 
 ### _Projects_
-**Virtual Candy Machine**
-https://github.com/sedillon93/candy_machine/blob/master/candy-machine.rb &nbsp; June 2017
+**Code 301 Portfolio** <br />
+https://github.com/sedillon93/portfolio	&nbsp; _Sept. 2017 -  Oct. 2017_
+- Portfolio for projects I have worked on as part of the Code Fellows curriculum
+
+**Scramble** <br />
+https://github.com/sedillon93/Scramble &nbsp; _Aug. 2017_
+- Scrabble-inspired game to create a high scoring five-letter word within the time limit
+
+**Bus-Mall Customer Research** <br />
+https://github.com/sedillon93/bus-mall &nbsp _Aug. 2017_
+- Collect and graph customer data on which product they are most likely to purchase given a choice of three randomly selected products
+
+**Bus-Mall Customer Order Form** <br />
+https://github.com/sedillon93/order-form &nbsp; _Aug. 2017_
+- Form to allow customers to place orders for products from the Bus-Mall catalog
+
+**Salmon Cookie Shop** <br />
+https://github.com/sedillon93/cookie-stand &nbsp; _Aug. 2017_
+- Design website for online presence of potential cookie shop business
+- Create form for business owner to track cookie sales at different locations, track hourly cookie sales across all stores, and add or delete store locations
+
+**Bootstrap replica front page** <br />
+https://github.com/sedillon93/Bootstrap-replica &nbsp; _Aug. 2017_
+- Responsive-designed replica of the front page on Bootstrap’s website
+- View end product here: https://sedillon93.github.io/Bootstrap-replica/
+
+**Virtual Candy Machine** <br />
+https://github.com/sedillon93/candy_machine/blob/master/candy-machine.rb &nbsp; _June 2017_
 - Virtual candy machine offering a handful of options to select from
 - Determines if user can afford their selection based on their input; calculates the correct change
 
 **Walkathon Tracker** <br />
-https://github.com/sedillon93/walkathon/blob/master/walkathon_hash.rb &nbsp; June 2017
+https://github.com/sedillon93/walkathon/blob/master/walkathon_hash.rb &nbsp; _June 2017_
 - Track miles walked, how much money was raised, and if the earning goal was met in a walkathon based on data provided by the user
 
 **Disney Character Election** <br />
