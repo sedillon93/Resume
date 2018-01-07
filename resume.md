@@ -16,23 +16,22 @@ Email: sedillon93@gmail.com</p>
 ### _Education_
 **Code Fellows Coding Academy** &nbsp;			            _Aug. 2017 - present_
 <br />
-• Code 201: Foundations of Software Development <br />
-• Code 301: Intermediate Software Development <br />
-• Code 401: Advanced Software Development in Full-Stack JavaScript
+- Code 201: Foundations of Software Development <br />
+- Code 301: Intermediate Software Development <br />
+- Code 401: Advanced Software Development in Full-Stack JavaScript
 
 
 **Colgate University** &nbsp; _May 2015_
 <br />
-_GPA: 3.66_
-  - Bachelor of Arts
-    - Environmental Geology
+- Bachelor of Arts
+  - Environmental Geology
 
 ### _Projects_
 
 ### _Interests & Affiliations_
-• She’s Coding <br />
-• SeattleJS Hackers <br />
-• Seattle Girl Geek Dinners
+- She’s Coding <br />
+- SeattleJS Hackers <br />
+- Seattle Girl Geek Dinners
 
 ### _Other Experience_
 **Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
