@@ -1,15 +1,42 @@
 # <p align="center">Shannon Dillon</p>
 ***
 <p align="center">
-528 Pontius Ave N Apt 407 Seattle, WA 98109
+340 West Sunset Way Apt A201 Issaquah, WA 98027
 </p>
 <p align="center">
 Phone: 215-806-8039
 Github: sedillon93
 Email: sedillon93@gmail.com</p>
 
+### _Skills_
+**Colgate University** &nbsp; _May 2015_
+<br />
+**Languages**: JavaScript (proficient), HTML5 (proficient), CSS3 (proficient), Ruby (beginner)
 
-### _Work Experience_
+**Frameworks & Tools**:  jQuery (proficient), SQL (proficient), Handlebars.js (proficient), NPM (proficient), Heroku (proficient), Node.js (proficient), Express.js (proficient), Page.js (beginner), Bootstrap (beginner)
+
+### _Education_
+**Code Fellows Coding Academy** &nbsp;			            Aug. 2017 - present
+<br />
+• Code 201: Foundations of Software Development
+• Code 301: Intermediate Software Development
+• Code 401: Advanced Software Development in Full-Stack JavaScript
+
+
+**Colgate University** &nbsp; _May 2015_
+<br />
+_GPA: 3.66_
+  - Bachelor of Arts
+    - Environmental Geology
+
+### _Projects_
+
+### _Interests & Affiliations_
+She’s Coding <br />
+SeattleJS Hackers <br />
+Seattle Girl Geek Dinners
+
+### _Other Experience_
 **Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
 <br />
 _St Thomas School_, _Medina, WA_
@@ -40,16 +67,10 @@ through hands­ on activities
   - Collaborate with other science outreach educators and supervisor to design schedule of activities suitable for the age and interests of different school groups
 
 
-### _Education_
-**Colgate University** &nbsp; _May 2015_
-<br />
-_GPA: 3.66_
-  - Bachelor of Arts
-    - Environmental Geology
 
 ### _Projects_
 **Portfolio Bootstrap Website** &nbsp; _Summer 2016_
   - Mock portfolio webpage created using HTML, CSS, and bootstrap
-  
+
 **Recipe Sorter Webpage** &nbsp; _Summer 2016_
   - Webpage with recipes sorted by category, with images and links to the original recipe website.
