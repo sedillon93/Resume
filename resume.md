@@ -14,7 +14,7 @@ Email: sedillon93@gmail.com</p>
 **Frameworks & Tools**:  jQuery (proficient), SQL (proficient), Handlebars.js (proficient), NPM (proficient), Heroku (proficient), Node.js (proficient), Express.js (proficient), Page.js (beginner), Bootstrap (beginner)
 
 ### _Education_
-**Code Fellows Coding Academy** &nbsp;			            Aug. 2017 - present
+**Code Fellows Coding Academy** &nbsp;			            _Aug. 2017 - present_
 <br />
 • Code 201: Foundations of Software Development <br />
 • Code 301: Intermediate Software Development <br />
@@ -30,9 +30,9 @@ _GPA: 3.66_
 ### _Projects_
 
 ### _Interests & Affiliations_
-She’s Coding <br />
-SeattleJS Hackers <br />
-Seattle Girl Geek Dinners
+• She’s Coding <br />
+• SeattleJS Hackers <br />
+• Seattle Girl Geek Dinners
 
 ### _Other Experience_
 **Elementary Center Instructional Assistant** &nbsp; _August 2016-present_
