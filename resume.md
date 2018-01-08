@@ -28,12 +28,12 @@ Email: sedillon93@gmail.com</p>
 
 ### _Projects_
 **ScrambleVox** <br />
-https://github.com/ScrambleVox/server&nbsp; _Jan. 2018_
-- API to transform simple WAV audio files using one of five built in transforms; developed as a team for Code Fellows 401 mid-term project.
+https://github.com/ScrambleVox/server &nbsp; _Jan. 2018_
+- API to transform simple WAV audio files using one of five built in transforms; developed as a team for Code Fellows 401 mid-term project
 
 **Collision Report** <br />
 https://github.com/sedillon93/CollisionReport &nbsp; _Oct. 2017_
-- API enabling users to document a car accident using Google Maps and email the report to their insurance representative; developed as a team for Code Fellows 301 final project.
+- API enabling users to document a car accident using Google Maps and email the report to their insurance representative; developed as a team for Code Fellows 301 final project
 
 **Code 301 Portfolio** <br />
 https://github.com/sedillon93/portfolio	&nbsp; _Sept. 2017 -  Oct. 2017_
