@@ -41,7 +41,7 @@ https://github.com/sedillon93/portfolio	&nbsp; _Sept. 2017 -  Oct. 2017_
 
 **Scramble** <br />
 https://github.com/sedillon93/Scramble &nbsp; _Aug. 2017_
-- Scrabble-inspired game to create a high scoring five-letter word within the time limit
+- Scrabble-inspired game to create a high scoring five-letter word within the time limit; developed as a team for Code Fellows 201 final project.
 
 **Bus-Mall Customer Research** <br />
 https://github.com/sedillon93/bus-mall &nbsp; _Aug. 2017_
